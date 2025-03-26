@@ -1,5 +1,5 @@
 const categories = {
-    "ESAS SUPER 2": [
+    "ESAS SUPER 3": [
 
       {
         "question": "If the mass on a body were doubled, its acceleration due to gravity would be",
@@ -353,6 +353,221 @@ const categories = {
     }
 
     ],
+
+    "EE SUPER 3": [
+
+    {
+        "question": "In a wye-delta (4 wires) system, what color is use to identify the phase with maximum voltage to neutral (high leg)?",
+        "choices": ["Yellow", "Red", "Orange", "Black"],
+        "answer": "Orange"
+    },
+    {
+        "question": "The units of capacitance are",
+        "choices": ["volts/coulomb", "coulombs/volts", "ohms", "henry/b"],
+        "answer": "coulombs/volts"
+    },
+    {
+        "question": "The total electric flux through any closed surface surrounding charges is equal to the amount of charge enclosed. The above statement is associated with",
+        "choices": ["Coulomb's square law", "Gauss's law", "Maxwell's first law", "Maxwell's second law"],
+        "answer": "Gauss's law"
+    },
+    {
+        "question": "What is the maximum output of cellular transmitter?",
+        "choices": ["30 W", "60W", "6W", "3W"],
+        "answer": "3W"
+    },
+    {
+        "question": "The breakdown voltage for paper capacitors is usually",
+        "choices": ["20 to 60 volts", "200 to 1600 volts", "2000 to 3000 volts", "more than 10000 volts"],
+        "answer": "200 to 1600 volts"
+    },
+    {
+        "question": "In Philippine Grid Code, which alert issued by the system operator when the contingency reserve is zero, a generation deficiency exists, or there is critical loading or imminent overloading of transmission lines and equipment?",
+        "choices": ["Blue Alert", "Red Alert", "Yellow Alert", "Security Alert"],
+        "answer": "Red Alert"
+    },
+    {
+        "question": "The two conductors of a transmission line carry equal current l in opposite direction. The force on each conductor is",
+        "choices": ["proportional to I", "proportional to distance between conductors", "proportional to I^2", "inversely proportional to I^2"],
+        "answer": "proportional to I^2"
+    },
+    {
+        "question": "A material which is slightly repelled by a magnetic field is known as",
+        "choices": ["ferromagnetic material", "diamagnetic material", "paramagnetic material", "conducting material"],
+        "answer": "diamagnetic material"
+    },
+    {
+        "question": "The ratio of intensity of magnetization to the magnetization force is known as",
+        "choices": ["flux density", "relative permittivity", "susceptibility", "none of the above"],
+        "answer": "susceptibility"
+    },
+    {
+        "question": "Paramagnetic materials have relative permeability",
+        "choices": ["slightly < 1", "equal to unity", "slightly > 1", "≤1"],
+        "answer": "slightly > 1"
+    },
+    {
+        "question": "The property of a material which opposes the creation of magnetic flux in it is known as",
+        "choices": ["reluctivity", "magneto motive force", "permeance", "reluctance"],
+        "answer": "reluctance"
+    },
+    {
+        "question": "The direction of induced emf can be found by",
+        "choices": ["Laplace's law", "Lenz's law", "Fleming's right-hand rule", "Kirchhoff's voltage law"],
+        "answer": "Lenz's law"
+    },
+    {
+        "question": "Base load plants are designed to supply power at",
+        "choices": ["low capital cost and low operating cost", "high capital cost and low operating cost", "low capital cost and high operating cost", "high capital cost and high operating cost"],
+        "answer": "high capital cost and low operating cost"
+    },
+    {
+        "question": "What is the electrical analogy of a body with mass 'm'?",
+        "choices": ["1/C", "L", "C", "R"],
+        "answer": "L"
+    },
+    {
+        "question": "The amplitude modulation generated at a very low voltage or power amplifier is___ modulation.",
+        "choices": ["minimum", "collector", "high-level", "low-level"],
+        "answer": "low-level"
+    },
+    {
+        "question": "Which of the following type of fault that used only the equivalent positive impedance of the circuit in the short-circuit calculation?",
+        "choices": ["Line-to-line fault", "Double-line-to-ground fault", "Three-phase fault", "Single-line-to-ground fault"],
+        "answer": "Three-phase fault"
+    },
+    {
+        "question": "Which of the following define the meaning of load factor?",
+        "choices": ["The ratio of maximum load to average load.", "The ratio of average load to install capacity.", "The ratio of average load to maximum load.", "The ratio of connected load to maximum load."],
+        "answer": "The ratio of average load to maximum load."
+    },
+    {
+        "question": "If the magnetic flux through a certain region is changing with time",
+        "choices": ["an emf exist around the boundary", "a current must flow around the boundary", "an electric field must exist at the boundary", "a magnetic of connected load to maximum load"],
+        "answer": "an emf exist around the boundary"
+    },
+    {
+        "question": "In a capacitor start motor, the capacitor is replaced by an inductor having the same reactance as in capacitor. Then the motor will",
+        "choices": ["be damaged", "start but run at a slow speed", "start and run at its rated speed", "not start"],
+        "answer": "not start"
+    },
+    {
+        "question": "When line to ground fault occur, the current in the faulted line is 100 Amp. What is the zero sequence current in this case?",
+        "choices": ["Zero", "66.67 Amp", "33.3 Amp", "100 Amp"],
+        "answer": "100 Amp"
+    },
+    {
+        "question": "Which of the following transformer has only one winding?",
+        "choices": ["current", "distribution", "autotransformer", "power"],
+        "answer": "autotransformer"
+    },
+    {
+        "question": "Which of the following AC device is used to measure the angle between the voltage and its current?",
+        "choices": ["reactive meter", "power factor meter", "demand meter", "phase angle meter"],
+        "answer": "phase angle meter"
+    },
+    {
+        "question": "The grounded conductor is a/an _____ grounded conductor.",
+        "choices": ["isolated", "guarded", "insulated", "intentionally"],
+        "answer": "intentionally"
+    },
+    {
+        "question": "A common utility's tariff practice to penalize industrial consumers whose power factor falls below _____ and give incentive for power factor above ___?",
+        "choices": ["80%,90%", "75%,90%", "85%,85%", "75%,85%"],
+        "answer": "85%,85%"
+    },
+    {
+        "question": "Series Capacitor on transmission line is used to improve?",
+        "choices": ["Steady state Stability", "Transient stability", "Both A and B", "Neither A or B"],
+        "answer": "Both A and B"
+    },
+    {
+        "question": "Chemical not used to protect or treat wooden poles from termites?",
+        "choices": ["Alkaline Copper Quaternar", "Copper Azole", "Micronized copper Azole", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the type of communication that only one of the two parties can transmit at a time?",
+        "choices": ["Full duplex", "Bicomm", "Half duplex", "Simplex"],
+        "answer": "Half duplex"
+    },
+    {
+        "question": "Which is true about magnetic flux?",
+        "choices": ["have sources only", "have sink only", "have source & sinks", "do not have source & sinks"],
+        "answer": "do not have source & sinks"
+    },
+    {
+        "question": "An American engineer wishes to practice Electrical Engineering in the Philippines must have?",
+        "choices": ["APEC", "Foreign Reciprocity", "ASEAN", "ACPE"],
+        "answer": "Foreign Reciprocity"
+    },
+    {
+        "question": "The no-load current drawn by transformer is usually what percent of the full-load current?",
+        "choices": ["0.2 to 0.5 percent", "12 to 15 percent", "2 to 5 percent", "20 to 30 percent"],
+        "answer": "2 to 5 percent"
+    },
+    {
+        "question": "No-load test on a transformer is carried out to determine?",
+        "choices": ["copper loss", "magnetizing current and loss", "magnetizing current", "efficiency of the transformer"],
+        "answer": "magnetizing current and loss"
+    },
+    {
+        "question": "The dielectric strength of transformer oil is expected to be?",
+        "choices": ["1kV", "100 kV", "33 kV", "330 kV"],
+        "answer": "33 kV"
+    },
+    {
+        "question": "The efficiency of a transformer will be maximum when?",
+        "choices": ["copper losses = hysteresis losses", "hysteresis losses = eddy current losses", "eddy current losses = copper losses", "copper losses = iron losses"],
+        "answer": "copper losses = iron losses"
+    },
+    {
+        "question": "In each transformer for a given applied voltage, losses which remain constant irrespective of load changes are?",
+        "choices": ["friction and windage losses", "copper losses", "hysteresis and eddy current losses", "none of the above"],
+        "answer": "hysteresis and eddy current losses"
+    },
+    {
+        "question": "If the variable part of annual cost on account of interest and depreciation on the capital outlay is equal to the annual cost of electrical energy wasted in the conductors, the total annual cost will be minimum and the corresponding size of conductor will be most economical. This statement is known as?",
+        "choices": ["Kelvin's law", "Kirchhoff's law", "Ohm's law", "Faraday's law"],
+        "answer": "Kelvin's law"
+    },
+    {
+        "question": "The square root of the ratio of line impedance and shunt admittance is called the?",
+        "choices": ["Surge impedance of the line", "Regulation of the line", "Conductance of the line", "None of the above"],
+        "answer": "Surge impedance of the line"
+    },
+    {
+        "question": "Which of the following D.C. distribution system is the simplest and lowest in first cost?",
+        "choices": ["Radial system", "Ring system", "Inter-connected system", "None of the above"],
+        "answer": "Radial system"
+    },
+    {
+        "question": "A 310 km line is considered as?",
+        "choices": ["Long line", "Medium line", "Short line", "Any of the above"],
+        "answer": "Long line"
+    },
+    {
+        "question": "In the list below, which one is not a type of present-day nuclear power plant?",
+        "choices": ["Boiling water reactor", "Fusion-fission reactor", "Low pressure reactor", "Fast breeder reactor"],
+        "answer": "Low pressure reactor"
+    },
+    {
+        "question": "Which one of the following tests is preferred for checking the parameters of transmission line switchgear insulation?",
+        "choices": ["an AC high potential test", "short circuit and open circuit test", "DC high potential test", "power factor test"],
+        "answer": "an AC high potential test"
+    },
+    {
+        "question": "Insulators are commonly made of?",
+        "choices": ["Ceramic", "Porcelain", "Mica", "all of these"],
+        "answer": "Porcelain"
+    },
+    {
+        "question": "Insulators used for transmission line at the dead-end tower are?",
+        "choices": ["suspension type", "strain type", "shackle type", "pin type"],
+        "answer": "strain type"
+    }
+
+],
 
 };
 
